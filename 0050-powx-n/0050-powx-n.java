@@ -1,17 +1,19 @@
 class Solution {
-    public double solve(double x, double n){
-        if(n == 0) return 1;
-        if( n < 0){
-            return solve(1/x, -n);
+    public double power(double x, double n){
+        if(n == 0){
+            return 1;
         }
-        else if(n % 2 == 0){
-            return solve(x*x, n/2);
+        if(n < 0){
+            return power(1/x, -n);
+        }
+        if(n % 2 == 0){
+            return power(x*x, n/2);
         }
         else{
-            return x * solve(x*x, (n-1)/2);
+            return x*power(x*x, (n-1)/2);
         }
     }
     public double myPow(double x, int n) {
-        return solve(x, (long)n);
+        return power(x, (long)n);
     }
 }
