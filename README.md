@@ -30,6 +30,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0050-powx-n) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2652-sum-multiples) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
