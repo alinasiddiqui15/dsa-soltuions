@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3856-trim-trailing-vowels](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3856-trim-trailing-vowels) |
 ## Queue
 |  |
 | ------- |
