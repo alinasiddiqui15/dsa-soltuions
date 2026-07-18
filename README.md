@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
