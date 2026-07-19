@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2652-sum-multiples) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
