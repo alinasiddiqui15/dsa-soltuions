@@ -5,8 +5,8 @@ class Solution {
 
         if(k == 0) return n;
         Arrays.sort(nums);
-        int tg = n-k;
-        int greater = nums[tg];
+        int ul = n-k;
+        int greater = nums[ul];
         for(int ele : nums){
             if(ele < greater){
                 count++;
