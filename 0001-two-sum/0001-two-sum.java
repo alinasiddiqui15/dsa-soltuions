@@ -6,7 +6,7 @@ class Solution {
 
         for(int ele : nums){
             int complements = target - ele;
-            if(map.containsKey(complements)){
+            if(map.containsKey(complements) == true){
                 ans[0] = map.get(complements);
                 ans[1] = index;
                 return ans;
