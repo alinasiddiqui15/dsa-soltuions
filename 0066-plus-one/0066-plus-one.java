@@ -1,6 +1,5 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        List<Integer> li = new ArrayList<>();
         int n = digits.length;
         int[] res = new int[n+1];
 
