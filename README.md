@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0066-plus-one) |
 | [1486-xor-operation-in-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2652-sum-multiples) |
