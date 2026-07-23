@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
 | [0162-find-peak-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3884-first-matching-character-from-both-ends](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Divide and Conquer
 |  |
