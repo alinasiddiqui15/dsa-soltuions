@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0904-fruit-into-baskets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
