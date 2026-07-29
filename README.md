@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0066-plus-one) |
+| [1323-maximum-69-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2652-sum-multiples) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
