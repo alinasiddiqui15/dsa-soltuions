@@ -2,6 +2,7 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
         int[] ans = new int[2];
+
         int index = 0;
 
         for(int ele : nums){
