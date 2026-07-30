@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0881-boats-to-save-people) |
 | [3884-first-matching-character-from-both-ends](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Divide and Conquer
 |  |
@@ -145,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
