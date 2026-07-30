@@ -1,24 +1,23 @@
 class Solution {
-    public int maximum69Number(int num) {
+    public int maximum69Number (int num) {
         int rev = 0;
-
-        //first we reverse the given number
+        //first we reverse the num
         while(num > 0){
-            int ld = num % 10;
-            rev = rev * 10 + ld;
+            int rem = num % 10;
+            rev = rev * 10 + rem;
             num = num / 10;
         }
+
+        //check that after reverse if the first number is 6 then change it into 9
         int rev1 = 0;
-        int c6 = 0;
-        //check if the last first digit is 6 or not
-        while(rev > 0){ 
-            int ld = rev % 10;
-            if(ld == 6 && c6 < 1){ // if it is 6 then replace it with 9 (only first 6 not for every 6)
+        int c6 = 0; // count of 6
+        while(rev > 0){
+            int rem = rev % 10;
+            if(rem == 6 && c6 < 1){
                 c6++;
-                ld = 9;
+                rem = 9;
             }
-            //again reverse the digit and get the answer
-            rev1 = rev1 * 10 + ld;
+            rev1 = rev1 * 10 + rem;
             rev = rev / 10;
         }
         return rev1;
