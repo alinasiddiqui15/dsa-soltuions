@@ -1,22 +1,23 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
+        //Two Pointer
         int n = nums.length;
         int[] result = new int[n];
 
-        int left = 0;
-        int right = n - 1;
+        int low = 0;
+        int high = n - 1;
         int p = n - 1;
 
-        while (left <= right) {
-            int leftSquare = nums[left] * nums[left];
-            int rightSquare = nums[right] * nums[right];
+        while (low <= high) {
+            int lowSquare = nums[low] * nums[low];
+            int highSquare = nums[high] * nums[high];
 
-            if (leftSquare > rightSquare) {
-                result[p] = leftSquare;
-                left++;
+            if (lowSquare > highSquare) {
+                result[p] = lowSquare;
+                low++;
             } else {
-                result[p] = rightSquare;
-                right--;
+                result[p] = highSquare;
+                high--;
             }
 
             p--;
