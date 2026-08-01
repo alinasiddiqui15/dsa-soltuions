@@ -2,27 +2,25 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
         //Two Pointer
         int n = nums.length;
-        int[] result = new int[n];
+        int[] res = new int[n];
 
         int low = 0;
         int high = n - 1;
         int p = n - 1;
 
-        while (low <= high) {
+        while(low <= high) {
             int lowSquare = nums[low] * nums[low];
             int highSquare = nums[high] * nums[high];
 
-            if (lowSquare > highSquare) {
-                result[p] = lowSquare;
+            if(lowSquare > highSquare) {
+                res[p] = lowSquare;
                 low++;
             } else {
-                result[p] = highSquare;
+                res[p] = highSquare;
                 high--;
             }
-
             p--;
         }
-
-        return result;
+        return res;
     }
 }
