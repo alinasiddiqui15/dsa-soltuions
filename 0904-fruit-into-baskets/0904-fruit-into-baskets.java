@@ -1,6 +1,6 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        Map<Integer,Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         int n = fruits.length;
         int left = 0;
         int max = Integer.MIN_VALUE;
@@ -15,7 +15,7 @@ class Solution {
                 left++;
             }
             max = Math.max(max, right-left+1);
-        } 
+        }
         return max;
     }
 }
