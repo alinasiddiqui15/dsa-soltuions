@@ -1,6 +1,5 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-       //Two pointer
        int n = nums.length;
        int[] res = new int[n];
 
@@ -11,7 +10,6 @@ class Solution {
        while(low <= high){
         int lowSquare = nums[low] * nums[low];
         int highSquare = nums[high] * nums[high];
-
         if(lowSquare > highSquare){
             res[p] = lowSquare;
             low++;
@@ -20,7 +18,7 @@ class Solution {
             high--;
         }
         p--;
-       }
+       } 
        return res;
     }
 }
