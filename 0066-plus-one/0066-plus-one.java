@@ -7,7 +7,7 @@ class Solution {
             digits[i]++;
             return digits;
         }
-        digits[i] = 1;
+        digits[i] = 0;
        }
        int[] res = new int[n+1];
        res[0] = 1;
