@@ -4,11 +4,11 @@ class Solution {
 
        for(char c : s.toCharArray()){
         if(c == '*'){
-            sb.deleteCharAt(sb.length()-1);
-        } else {
+            sb.deleteCharAt(sb.length() -1 );
+        } else{
             sb.append(c);
         }
-       } 
-       return sb.toString();
+       }
+       return sb.toString(); 
     }
 }
