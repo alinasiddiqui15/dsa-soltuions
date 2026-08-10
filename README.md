@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2652-sum-multiples) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -178,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2390-removing-stars-from-a-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
