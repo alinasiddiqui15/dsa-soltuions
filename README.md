@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0881-boats-to-save-people) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0344-reverse-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0148-sort-list) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
 |  |
@@ -196,5 +199,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
