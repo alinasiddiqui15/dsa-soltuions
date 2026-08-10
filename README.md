@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
