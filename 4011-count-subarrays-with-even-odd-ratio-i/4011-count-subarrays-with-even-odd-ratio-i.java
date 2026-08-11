@@ -6,7 +6,6 @@ class Solution {
         for(int i=0; i<n; i++){
             int even = 0;
             int odd = 0;
-
             for(int j=i; j<n; j++){
                 if(nums[j] % 2 == 0) even++;
                 else odd++;
