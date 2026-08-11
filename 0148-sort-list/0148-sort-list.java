@@ -12,6 +12,7 @@ class Solution {
         int[] arr = new int[n];
         ListNode temp = head;
         int i = 0;
+
         while(temp != null){
             arr[i] = temp.val;
             i++;
