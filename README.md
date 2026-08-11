@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
