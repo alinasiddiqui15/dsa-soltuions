@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int n = numbers.length;
+       int n = numbers.length;
        int low = 0;
        int high = n-1;
        int[] res = new int[2];
@@ -9,9 +9,12 @@ class Solution {
         if(numbers[low] + numbers[high] == target){
             res[0] = low + 1;
             res[1] = high + 1;
-        } else if(numbers[low] + numbers[high] > target){
+            return res;
+        }
+        else if(numbers[low] + numbers[high] > target){
             high--;
-        } else{
+        }
+        else{
             low++;
         }
        } 
