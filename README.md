@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0976-largest-perimeter-triangle) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
