@@ -1,12 +1,4 @@
 public class Solution {
-    public int count(ListNode head){
-        int c = 0;
-        while(head != null){
-            c++;
-            head = head.next;
-        }
-        return c;
-    }
     public boolean hasCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
