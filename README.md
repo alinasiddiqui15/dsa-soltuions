@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
