@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3760-maximum-substrings-with-distinct-start) |
