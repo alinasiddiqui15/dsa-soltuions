@@ -1,4 +1,3 @@
-
 class Solution {
     public int count(ListNode head){
         int c = 0;
