@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3731-find-missing-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
+| [2974-minimum-number-game](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2974-minimum-number-game](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2974-minimum-number-game) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1019-next-greater-node-in-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
