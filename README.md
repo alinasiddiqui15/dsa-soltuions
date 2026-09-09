@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3856-trim-trailing-vowels](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3884-first-matching-character-from-both-ends) |
