@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1672-richest-customer-wealth](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
+| [1672-richest-customer-wealth](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
