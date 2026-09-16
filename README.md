@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0242-valid-anagram) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
