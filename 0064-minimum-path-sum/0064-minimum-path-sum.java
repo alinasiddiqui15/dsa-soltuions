@@ -16,12 +16,13 @@ class Solution {
 
         for(int i=1; i<row; i++){
             for(int j=1; j<col; j++){
-                int r = ans[i-1][j] + grid[i][j];
-                int d = ans[i][j-1] + grid[i][j];
-                ans[i][j] = Math.min(r, d);
-            }   
+                int right = ans[i-1][j] + grid[i][j];
+                int down = ans[i][j-1] + grid[i][j];
+                ans[i][j] = Math.min(right, down);
+            }
         }
-
         return ans[row-1][col-1];
+
+
     }
 }
