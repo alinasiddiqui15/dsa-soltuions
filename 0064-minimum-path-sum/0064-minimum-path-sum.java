@@ -6,23 +6,20 @@ class Solution {
         int[][] ans = new int[row][col];
         ans[0][0] = grid[0][0];
 
-        for(int i=1; i<row; i++){
-            ans[i][0] = ans[i-1][0] + grid[i][0];
+        for(int i=1; i<row; i++) {
+            ans[i][0] = ans[i-1][0] + grid[i][0];        
         }
-
-        for(int j=1; j<col; j++){
+        for(int j=1; j<col; j++) {
             ans[0][j] = ans[0][j-1] + grid[0][j];
         }
 
-        for(int i=1; i<row; i++){
-            for(int j=1; j<col; j++){
+        for(int i=1; i<row; i++) {
+            for(int j=1; j<col; j++) {
                 int right = ans[i-1][j] + grid[i][j];
                 int down = ans[i][j-1] + grid[i][j];
                 ans[i][j] = Math.min(right, down);
             }
         }
         return ans[row-1][col-1];
-
-
     }
 }
