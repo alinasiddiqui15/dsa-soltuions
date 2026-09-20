@@ -23,7 +23,7 @@ class Solution {
             count++;
         }
         curr = s.substring(low+1, high);
-       } 
-       return count;
+       }
+       return count; 
     }
 }
