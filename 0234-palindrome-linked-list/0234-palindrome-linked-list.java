@@ -7,7 +7,8 @@ class Solution {
         curr = curr.next;
        }
        curr = head;
-       while(curr != null && curr.val == stack.pop()) {
+       while(curr != null) {
+        if(curr.val != stack.pop()) return false;
         curr = curr.next;
        }
        return curr == null;
