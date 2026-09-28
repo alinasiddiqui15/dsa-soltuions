@@ -5,7 +5,8 @@ class Solution {
        while(curr != null) {
         stack.push(curr.val);
         curr = curr.next;
-       }
+       } 
+
        curr = head;
        while(curr != null) {
         if(curr.val != stack.pop()) return false;
