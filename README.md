@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
