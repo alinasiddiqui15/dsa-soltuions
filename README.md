@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0704-binary-search) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
+| [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -369,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0997-find-the-town-judge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
