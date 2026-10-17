@@ -18,7 +18,7 @@ class Solution {
         carry = sum / 10; // if we get carry then divide it by 10 to get the carry
         ListNode node = new ListNode(sum % 10); // the value we will get by moduloing it, will become as new node so add it to the list
         curr.next = node; // carry will point to that new node if we get
-        curr = curr.next;  // update the current eery time
+        curr = curr.next;  // update the current every time
        }
        return dummy.next; // // return dummy.next bcz, we don't want the value we have consider in it intially (that was 0)
     }
