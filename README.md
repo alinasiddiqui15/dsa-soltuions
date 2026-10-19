@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
+| [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0022-generate-parentheses) |
+| [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
