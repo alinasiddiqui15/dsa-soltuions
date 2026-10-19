@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2974-minimum-number-game) |
 | [3842-toggle-light-bulbs](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
 | [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
 | ------- |
@@ -388,10 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
+| [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
+| [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 ## Hamiltonian Path
 |  |
 | ------- |
