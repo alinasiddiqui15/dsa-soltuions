@@ -11,12 +11,12 @@ class Solution {
             low--;
             high++;
         }
-        String curr = s.substring(low + 1, high);
+        String curr = s.substring(low+1, high);
         if(curr.length() > res.length()) {
             res = curr;
         }
 
-        //for even substring--> jaise ki "aa"
+        //for even substring
         low = i;
         high = i+1;
         while(low >= 0 && high < n && s.charAt(low) == s.charAt(high)) {
@@ -27,7 +27,7 @@ class Solution {
         if(curr.length() > res.length()) {
             res = curr;
         }
-       }
-       return res; 
+       } 
+       return res;
     }
 }
