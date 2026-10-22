@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1791-find-center-of-star-graph) |
 ## Depth-First Search
 |  |
@@ -402,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
