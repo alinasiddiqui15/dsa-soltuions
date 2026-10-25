@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
 
     public void solve(char[][] grid, int row, List<List<String>> ans) {
@@ -22,12 +21,9 @@ class Solution {
         for(int j = 0; j < n; j++) {
             if(grid[row][j] == '.') {
                 if(isSafe(grid, row, j)) {
-                    // Select
-                    grid[row][j] = 'Q';
-                    // Recursion
-                    solve(grid, row + 1, ans);
-                    // Backtracking
-                    grid[row][j] = '.';
+                    grid[row][j] = 'Q';  // Select
+                    solve(grid, row + 1, ans); // Recursion
+                    grid[row][j] = '.';  // Backtracking
                 }
             }
         }
@@ -36,12 +32,13 @@ class Solution {
         int n = grid.length;
 
         // Check column (above current row)
-        for(int i = 0; i < row; i++) {
-            if(grid[i][col] == 'Q') {
-                return false;
-            }
+        for(int j = 0; j < n; j++) {
+            if(grid[row][j] == 'Q') return false;
         }
-
+        // Check Row
+        for(int i = 0; i < n; i++) {
+            if(grid[i][col] == 'Q') return false;
+        }
         // North East
         int i = row;
         int j = col;
@@ -58,7 +55,6 @@ class Solution {
             i--;
             j--;
         }
-
         // South East
         i = row;
         j = col;
@@ -67,7 +63,6 @@ class Solution {
             i++;
             j++;
         }
-
         // South West
         i = row;
         j = col;
