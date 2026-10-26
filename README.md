@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0052-n-queens-ii) |
 | [0980-unique-paths-iii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0980-unique-paths-iii) |
 ## Bracket Sequences
 |  |
@@ -415,4 +416,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
