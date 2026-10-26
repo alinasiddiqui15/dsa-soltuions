@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2942-find-words-containing-character) |
+| [3136-valid-word](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3136-valid-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3856-trim-trailing-vowels](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/3884-first-matching-character-from-both-ends) |
