@@ -1,13 +1,14 @@
 class Solution {
     public void solve(char[][] grid, int row, List<List<String>> ans) {
         int n = grid.length;
-        // Base case
-        if(row == n) {
-            List<String> curr = new ArrayList<>();
 
+        //base case
+        if(row == n) {
+            //fill the matrix
+            List<String> curr = new ArrayList<>();
             for(int i = 0; i < n; i++) {
                 String str = "";
-                for(int j=0; j<n; j++) {
+                for(int j = 0; j < n; j++) {
                     str = str + grid[i][j];
                 }
                 curr.add(str);
@@ -16,13 +17,13 @@ class Solution {
             return;
         }
 
-        // Try placing queen in every column
+        //try placing queen in every column
         for(int j = 0; j < n; j++) {
             if(grid[row][j] == '.') {
                 if(isSafe(grid, row, j)) {
-                    grid[row][j] = 'Q';  // Select
-                    solve(grid, row + 1, ans); // Recursion
-                    grid[row][j] = '.';  // Backtracking
+                    grid[row][j] = 'Q'; // select
+                    solve(grid, row + 1, ans); // recursion
+                    grid[row][j] = '.'; // backtracking
                 }
             }
         }
@@ -30,15 +31,15 @@ class Solution {
     public boolean isSafe(char[][] grid, int row, int col) {
         int n = grid.length;
 
-        // Check column (above current row)
+        //check column
         for(int j = 0; j < n; j++) {
             if(grid[row][j] == 'Q') return false;
         }
-        // Check Row
+        //check row
         for(int i = 0; i < n; i++) {
             if(grid[i][col] == 'Q') return false;
         }
-        // North East
+        //north east
         int i = row;
         int j = col;
         while(i >= 0 && j < n) {
@@ -46,7 +47,7 @@ class Solution {
             i--;
             j++;
         }
-        // North West
+        //north west
         i = row;
         j = col;
         while(i >= 0 && j >= 0) {
@@ -54,7 +55,7 @@ class Solution {
             i--;
             j--;
         }
-        // South East
+        //south east
         i = row;
         j = col;
         while(i < n && j < n) {
@@ -62,7 +63,7 @@ class Solution {
             i++;
             j++;
         }
-        // South West
+        //south west
         i = row;
         j = col;
         while(i < n && j >= 0) {
@@ -72,14 +73,11 @@ class Solution {
         }
         return true;
     }
-
     public List<List<String>> solveNQueens(int n) {
-
-        List<List<String>> ans = new ArrayList<>();
         char[][] grid = new char[n][n];
+        List<List<String>> ans = new ArrayList<>();
 
-        // Initialize grid with '.'
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n ; i++) {
             for(int j = 0; j < n; j++) {
                 grid[i][j] = '.';
             }
