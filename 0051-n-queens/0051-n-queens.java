@@ -1,5 +1,4 @@
 class Solution {
-
     public void solve(char[][] grid, int row, List<List<String>> ans) {
         int n = grid.length;
         // Base case
