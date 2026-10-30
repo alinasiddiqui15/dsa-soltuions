@@ -2,13 +2,11 @@ class Solution {
     public void solve(char[][] grid, int row, List<List<String>> ans) {
         int n = grid.length;
 
-        //base case
         if(row == n) {
-            //fill the matrix
             List<String> curr = new ArrayList<>();
-            for(int i = 0; i < n; i++) {
+            for(int i=0; i<n; i++) {
                 String str = "";
-                for(int j = 0; j < n; j++) {
+                for(int j=0; j<n; j++) {
                     str = str + grid[i][j];
                 }
                 curr.add(str);
@@ -17,13 +15,12 @@ class Solution {
             return;
         }
 
-        //try placing queen in every column
-        for(int j = 0; j < n; j++) {
+        for(int j=0; j<n; j++) {
             if(grid[row][j] == '.') {
-                if(isSafe(grid, row, j)) {
-                    grid[row][j] = 'Q'; // select
-                    solve(grid, row + 1, ans); // recursion
-                    grid[row][j] = '.'; // backtracking
+                if(isSafe(grid, row, j) == true) {
+                    grid[row][j] = 'Q';
+                    solve(grid, row+1, ans);
+                    grid[row][j] = '.';                
                 }
             }
         }
@@ -31,12 +28,12 @@ class Solution {
     public boolean isSafe(char[][] grid, int row, int col) {
         int n = grid.length;
 
-        //check column
-        for(int j = 0; j < n; j++) {
+        //for column
+        for(int j=0; j<n; j++) {
             if(grid[row][j] == 'Q') return false;
         }
-        //check row
-        for(int i = 0; i < n; i++) {
+        //for row
+        for(int i=0; i<n; i++) {
             if(grid[i][col] == 'Q') return false;
         }
         //north east
@@ -74,15 +71,15 @@ class Solution {
         return true;
     }
     public List<List<String>> solveNQueens(int n) {
-        char[][] grid = new char[n][n];
         List<List<String>> ans = new ArrayList<>();
+        char[][] grid = new char[n][n];
 
-        for(int i = 0; i < n ; i++) {
-            for(int j = 0; j < n; j++) {
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
                 grid[i][j] = '.';
             }
-        }
+        } 
         solve(grid, 0, ans);
-        return ans;
+        return ans;             
     }
 }
