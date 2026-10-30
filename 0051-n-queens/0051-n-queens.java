@@ -1,9 +1,9 @@
 class Solution {
     public void solve(char[][] grid, int row, List<List<String>> ans) {
         int n = grid.length;
+        List<String> curr = new ArrayList<>();
 
         if(row == n) {
-            List<String> curr = new ArrayList<>();
             for(int i=0; i<n; i++) {
                 String str = "";
                 for(int j=0; j<n; j++) {
