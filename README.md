@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1550-three-consecutive-odds](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/1979-find-greatest-common-divisor-of-array) |
