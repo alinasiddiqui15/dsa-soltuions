@@ -2,14 +2,13 @@ class Solution {
     public void solve(char[][] grid, int row, List<List<String>> ans) {
         int n = grid.length;
         List<String> curr = new ArrayList<>();
-
         if(row == n) {
             for(int i=0; i<n; i++) {
                 String str = "";
                 for(int j=0; j<n; j++) {
                     str = str + grid[i][j];
                 }
-                curr.add(str);
+                curr.add(str);                
             }
             ans.add(curr);
             return;
@@ -27,15 +26,16 @@ class Solution {
     }
     public boolean isSafe(char[][] grid, int row, int col) {
         int n = grid.length;
-
         //for column
         for(int j=0; j<n; j++) {
             if(grid[row][j] == 'Q') return false;
         }
+
         //for row
         for(int i=0; i<n; i++) {
             if(grid[i][col] == 'Q') return false;
         }
+
         //north east
         int i = row;
         int j = col;
@@ -71,15 +71,15 @@ class Solution {
         return true;
     }
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> ans = new ArrayList<>();
         char[][] grid = new char[n][n];
+        List<List<String>> ans = new ArrayList<>();
 
         for(int i=0; i<n; i++) {
             for(int j=0; j<n; j++) {
                 grid[i][j] = '.';
             }
-        } 
+        }
         solve(grid, 0, ans);
-        return ans;             
+        return ans;       
     }
 }
