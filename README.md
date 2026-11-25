@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/2596-check-knight-tour-configuration) |
 ## Hamiltonian Path
@@ -444,10 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/alinasiddiqui15/dsa-soltuions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
