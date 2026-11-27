@@ -2,6 +2,7 @@ class Solution {
     public int minDepth(TreeNode root) {
         if(root == null) return 0;
 
+        // Initialize the depth of two subtrees...
         int lh = minDepth(root.left);
         int rh = minDepth(root.right);
         if(root.left == null && root.right == null) return 1;
